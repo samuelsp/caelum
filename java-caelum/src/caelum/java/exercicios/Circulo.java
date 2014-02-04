@@ -1,5 +1,7 @@
 package caelum.java.exercicios;
 
+
+//classe circulo que implementa a interface AreaCalculavel
 public class Circulo implements AreaCalculavel {
 	private double raio;
 
